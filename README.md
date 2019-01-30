@@ -12,7 +12,7 @@ You can use this code after 3 steps.
 1. Install original all deeplabcut package from https://github.com/AlexEMG/DeepLabCut to your new anaconda environment.
 For this step, you may follow my manual "시작하기.txt" in deeplabcut/Desktop_Files/Deeplabcut Guide
 
-2. Please copy the DeepLabCut/deeplabcut/ folder to anaconda3\\(your new environment)\Lib\site-packages(you should overwrite while your copying! 덮어쓰세요!)
+2. Please copy the DeepLabCut/deeplabcut/ folder to anaconda3\\(your new environment)\Lib\site-packages(you should overwrite the deeplabcut folder from above step while your copying! 위에서 만든 deeplabcut 폴더를 덮어쓰세요!)
 
 3. Next, you should copy some files of Desktop_Files to your desktop. For analyzing linear chamber tests, you may need to download these files.
 
