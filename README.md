@@ -5,7 +5,7 @@ Changed DeepLabCut for Synaptic Brain Dysfunctions Lab in KAIST, South Korea.
 ![Alt Text](https://github.com/altairlight/DeepLabCut/blob/master/deeplabcut/Desktop_Files/gifs/Object%20%26%20Mouse.gif)
 ![Alt Text](https://github.com/altairlight/DeepLabCut/blob/master/deeplabcut/Desktop_Files/gifs/RedHat.gif)
 
-Forked from commit https://github.com/altairlight/DeepLabCut/commit/195c32e3aa05fce46c57639e238ab3525682ccb8 and some of it's codes have been fixed. 
+Forked from commit https://github.com/altairlight/DeepLabCut/commit/195c32e3aa05fce46c57639e238ab3525682ccb8 and some of it's codes have been fixed(optimized GUI mainframe & train parameters for our lab videos, project codes & files & training dataset which can be used for your new project & transfer learning, labeling restart function(by down arrow key), memory clear, cpp codes to remove mis-generated/unused files, and Korean manuals). 
 
 You can use this code after 3 steps.
 
