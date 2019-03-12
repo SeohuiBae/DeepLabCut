@@ -34,8 +34,8 @@ For this step, you may follow my manual "시작하기.txt" in deeplabcut/Desktop
     
     Instead, minimum videos(3 videos) for "LinearChamber2-KAIST-2019-01-07" are stored in this repository. 
     
-    If you need all video files and you can prove you are related to our Synaptic Brain Dysfunctions Lab in KAIST, you could get the data from me(altairlight@kaist.ac.kr) or from Ms.WooHyun Kim.
+    If you need all video files and you can prove you are related to our Synaptic Brain Dysfunctions Lab in KAIST, you could get the data from me(timegate@kaist.ac.kr) or from Ms.WooHyun Kim.
 
 Now you can follow my manuals in deeplabcut/Desktop_Files/Deeplabcut Guide and enjoy your projects!
 
-Also please contact to altairlight@kaist.ac.kr if you got stuck on some problems. Thanks!
+Also please contact to timegate@kaist.ac.kr if you got stuck on some problems. Thanks!
